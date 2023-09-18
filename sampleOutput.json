@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Mark Schlabach",
+        "title": "Mets owner Steven Cohen buys team in tech-infused golf league - ESPN",
+        "description": "New York Mets owner Steven A. Cohen is the latest sports figure to purchase a team in the tech-infused golf league being fronted by Tiger Woods and Rory McIlroy.",
+        "url": "https://www.espn.com/golf/story/_/id/38343962/mets-owner-steven-cohen-buys-team-tech-infused-golf-league",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0824%2Fr1052475_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-09-07T12:23:59Z",
+        "content": "There will be a Boston-New York rivalry in TGL, the tech-infused golf league being fronted by Tiger Woods and Rory McIlroy that is scheduled to begin play in January.\r\nNew York Mets owner Steven A. C… [+3621 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Jason Gay",
+        "title": "Deion Sanders: The Hottest Coach in Sports Is Coach Prime",
+        "description": "It was just one game. But under new boss Deion Sanders, Colorado suddenly looks like college football’s most intriguing and fun-to-watch team.",
+        "url": "https://www.wsj.com/sports/football/deion-sanders-coach-prime-colorado-4816ddfe?mod=hp_lead_pos9",
+        "urlToImage": "https://images.wsj.net/im-847235/social",
+        "publishedAt": "2023-09-07T11:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "les-echos",
+          "name": "Les Echos"
+        },
+        "author": "Sarah Dumeau",
+        "title": "Clément Beaune confirme la création d'un Pass Rail « dès l'été prochain »",
+        "description": "Le ministre des Transports a donné quelques précisions ce jeudi matin sur la création de ce Pass, qui devrait permettre de voyager en illimité sur les réseaux de TER et d'Intercités.",
+        "url": "https://www.lesechos.fr/industrie-services/tourisme-transport/clement-beaune-confirme-la-creation-dun-pass-rail-des-lete-prochain-1976027",
+        "urlToImage": "https://media.lesechos.com/api/v1/images/view/64f97a18370d6825300946b9/1280x720/070927439495-web-tete.jpg",
+        "publishedAt": "2023-09-07T07:21:47Z",
+        "content": "Lundi, Emmanuel Macron s'y est dit favorable dans une interview au vidéaste Hugo Décrypte . Ce jeudi matin, Clément Beaune, le ministre des Transports, a confirmé la création du « Pass Rail ». « Je v… [+1446 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": null,
+        "title": "2023 NFL awards predictions: Expert picks for MVP, DPOY, Rookies of the Year, more",
+        "description": "FOX Sports' staff of NFL writers made predictions ahead of the season, for everything from the MVP Award to Coach of the Year. Here's how they voted and why.",
+        "url": "http://www.foxsports.com/stories/nfl/2023-nfl-awards-predictions-expert-picks-for-mvp-dpoy-rookies-of-the-year-more",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/09/1408/814/09.04.23_NFL-Award-Predictions_16x9.jpg?ve=1&tl=1",
+        "publishedAt": "2023-09-06T13:55:17Z",
+        "content": "The 2023-24 NFL season is mere days away. Which players are most worth watching? Who could emerge as a breakout star this year, or further cement their status as one of the league's best?\r\nFOX Sports… [+10223 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": null,
+        "title": "LOOK: World record 92,003 fans watch Nebraska volleyball match at Memorial Stadium",
+        "description": "Nebraska volleyball set a women's sports attendance record Wednesday night as 92,003 fans descended on Memorial Stadium to watch the match vs. Omaha.",
+        "url": "https://www.usatoday.com/story/sports/college/volleyball/2023/08/30/nebraska-volleyball-womens-sports-attendance-record/70723628007/",
+        "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/31/USAT/70723657007-usatsi-21308918.jpg?auto=webp&crop=5888,3327,x0,y0&format=pjpg&width=1200",
+        "publishedAt": "2023-08-31T03:32:26+00:00",
+        "content": "\"Volleyball Day\" in Lincoln, Nebraska, will go down in history.\r\nWednesday's matchup between the Nebraska Cornhuskers and the Omaha Mavericks drew 92,003 spectators to the Cornhuskers' Memorial Stadi… [+2733 chars]"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "New Mookie Podcast ",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/460314-mookie-x-kike-hernandez-vod",
+        "urlToImage": null,
+        "publishedAt": "2023-08-25T19:52:17.2341161Z",
+        "content": "Kiké Hernández joined Mookie to talk about his most embarrassing MLB story, being back in LA, LeBron James and more"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": " Rooks x Pulisic Interview ️",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/457604-rooks-x-pulisic-vod",
+        "urlToImage": null,
+        "publishedAt": "2023-08-01T17:52:19.0557986Z",
+        "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": null,
+        "title": "Daily Briefing",
+        "description": "The day's top stories, from sports to movies to politics to world events.",
+        "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+        "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+        "publishedAt": "2021-08-15T15:35:07+00:00",
+        "content": "The day's top stories, from sports to movies to politics to world events."
+      }
+    ]
+  }
